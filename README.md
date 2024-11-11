@@ -16,6 +16,7 @@ LLMs have become essential in NLP applications such as text generation and langu
 ## Proposed Methodology
 
 ![System Design](final outline.png)
+
 This study is divided into two main parts:
 
 1. **Optimization**: Various optimization techniques, including PSO, GA, and L1 pruning, were applied to make the model lighter and reduce memory usage. These techniques allow the model to run efficiently within the limited resources of edge devices.
