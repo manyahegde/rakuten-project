@@ -15,7 +15,7 @@ LLMs have become essential in NLP applications such as text generation and langu
 
 ## Proposed Methodology
 
-![System Design](final outline.png)
+![System Design](finaloutline.png)
 
 This study is divided into two main parts:
 
