@@ -1,6 +1,6 @@
 # Optimization and Segmentation of Large Language Models on Edge Devices
 
-This repository contains the implementation of a project aimed at optimizing large language models (LLMs) to run efficiently on edge devices. We applied evolutionary algorithms and model pruning techniques to reduce computational requirements, memory usage, and energy consumption, making LLMs feasible for real-time, low-power environments.
+This repository contains the implementation of a project aimed at optimizing large language models (LLMs) to run efficiently on edge devices.
 
 LLMs have become essential in NLP applications such as text generation and language translation, but their size makes deployment on edge devices challenging. This study aims to address these limitations by:
 1. **Optimizing LLMs** with evolutionary algorithms.
