@@ -15,13 +15,17 @@ LLMs have become essential in NLP applications such as text generation and langu
 
 ## Proposed Methodology
 
-![System Design](finaloutline.png)
+![Proposed Architecture](finaloutline.png)
 
-This study is divided into two main parts:
+The proposed approach is divided into two main parts:
 
 1. **Optimization**: Various optimization techniques, including PSO, GA, and L1 pruning, were applied to make the model lighter and reduce memory usage. These techniques allow the model to run efficiently within the limited resources of edge devices.
   
 2. **Segmentation**: After optimization, pipeline parallelism was used to segment the model across multiple devices. By splitting the model and allowing each device to process a segment, we improved processing speed and achieved concurrent execution, making it feasible to deploy large models on resource-constrained environments.
+
+## Final Implementation
+
+![Implemented System Design](implemented.png)
 
 ## Future Work
 Segmenting the model based on system computational power to further optimize performance on devices with varying capabilities.
