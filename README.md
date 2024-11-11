@@ -25,7 +25,8 @@ The proposed approach is divided into two main parts:
 
 ## Final Implementation
 
-![Implemented System Design](implemented.png)
+<img src="implemented.png" alt="Alt text" width="300" />
+
 
 ## Future Work
 Segmenting the model based on system computational power to further optimize performance on devices with varying capabilities.
