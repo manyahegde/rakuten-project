@@ -25,7 +25,7 @@ The proposed approach is divided into two main parts:
 
 ## Final Implementation
 
-<img src="implemented.png" alt="Alt text" width="300" />
+<img src="implemented.png" alt="Alt text" width="600" />
 
 
 ## Future Work
